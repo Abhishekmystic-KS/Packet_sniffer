@@ -17,7 +17,7 @@ This Python script captures network packets, logs them, and detects suspicious I
   - `collections`
   - `datetime`
   - `time`
-
+- Enter the Target ip in the code 
 Install dependencies using:
 ```bash
 pip install scapy
